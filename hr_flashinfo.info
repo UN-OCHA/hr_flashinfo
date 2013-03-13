@@ -12,6 +12,7 @@ features[ctools][] = views:views_default:3.0
 features[features_api][] = api:1
 features[field][] = node-flash_info-body
 features[field][] = node-flash_info-field_infonews
+features[field][] = node-flash_info-title_field
 features[node][] = flash_info
 features[variable][] = comment_anonymous_flash_info
 features[variable][] = comment_default_mode_flash_info
