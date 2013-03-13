@@ -1,4 +1,4 @@
-name = Hr FlashInfo
+name = HumanitarianResponse FlashInfo
 description = Flash information
 core = 7.x
 package = Humanitarianresponse
