@@ -1,7 +1,8 @@
 name = Hr FlashInfo
-description = Flash information for Mali
+description = Flash information
 core = 7.x
-package = Features
+package = Humanitarianresponse
+php = 5.2.4
 dependencies[] = features
 dependencies[] = strongarm
 dependencies[] = text
